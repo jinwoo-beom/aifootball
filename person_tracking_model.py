@@ -6,6 +6,7 @@ MP4 input -> YOLO(person) detect -> ByteTrack(person) tracking
 
 OUTPUT CSV (standardized):
 frame_idx,track_id,object_type,conf,cx,cy,x1,y1,x2,y2,cx_norm,cy_norm,video_w,video_h
+브랜치 테스트
 """
 
 
